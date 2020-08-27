@@ -10,7 +10,7 @@ inputs:
   TEST:
     description: "only a test"
     required: true
-    defauls: "my test"
+    default: "my test"
 
 runs:
   using: "docker"
